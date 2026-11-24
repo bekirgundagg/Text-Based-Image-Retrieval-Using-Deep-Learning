@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pt
+*.pth
+*.tgz
+*.zip
+person_c_data/
+person_c_run/
