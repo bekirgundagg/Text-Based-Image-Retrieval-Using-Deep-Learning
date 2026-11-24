@@ -1,0 +1,5 @@
+# Use Colab's preinstalled CUDA torch and torchvision build.
+transformers>=4.46,<5
+gdown>=5.2,<6
+requests>=2.32,<3
+Pillow>=10
